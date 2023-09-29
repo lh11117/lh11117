@@ -1,4 +1,13 @@
-### Hi there 👋
+### 你好 👋
+> hello
+
+
+我是 lh，很高兴遇见你！
+> I am lh, nice to meet you!
+
+我喜欢C++、Python、C#、JavaScript、~~Scratch~~
+> I like C++,Python,C#,JavaScript,~~Scratch~~ very much!
+
 
 <!--
 **lh11117/lh11117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +23,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
