@@ -1,12 +1,12 @@
 ### 你好 👋
 > hello
 
-
+---
 我是 lh，很高兴遇见你！
 > I am lh, nice to meet you!
-
-我喜欢C++、Python、C#、JavaScript、~~Scratch~~
-> I like C++,Python,C#,JavaScript,~~Scratch~~ very much!
+---
+我非常喜欢C++、Python、C#、JavaScript、~~Scratch~~！
+> I like C++, Python, C#, JavaScript, ~~Scratch~~ very much!
 
 
 <!--
